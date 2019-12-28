@@ -1,4 +1,4 @@
-# Driver-alert-system-based on eye recognition
+# Driver-alert-system-based-on-eye-recognition
  Car accident is the major cause of death in which  million of people die. To prevent such accidents we propose a system which alerts the driver if the driver feels drowsy.
 # install all libarys 
  - scipy  (pip install scipy)
