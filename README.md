@@ -18,7 +18,7 @@
 
 -  dlib
    - To detect and localize facial landmarks we’ll need the dlib library
-#Requirements:
+# Requirements:
 -python3.6
 https://www.python.org/downloads/
 
