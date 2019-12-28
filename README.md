@@ -18,3 +18,9 @@
 
 -  dlib
    - To detect and localize facial landmarks we’ll need the dlib library
+#Requirements:
+-python3.6
+https://www.python.org/downloads/
+
+-shape_predictor_68_face_landmarks.dat
+https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
