@@ -8,7 +8,7 @@ https://www.python.org/downloads/
 - shape_predictor_68_face_landmarks.dat
 https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
 
-# install all libarys 
+# install all python libraries 
  - scipy  (pip install scipy)
      - SciPy (pronounced “Sigh Pie”) is open-source software for mathematics, science, and engineering. The SciPy library depends on NumPy, which provides convenient and fast N-dimensional array manipulation. Here we are using scipy module to compute the Euclidean distance between facial landmarks points in the eye aspect ratio calculation.
 
